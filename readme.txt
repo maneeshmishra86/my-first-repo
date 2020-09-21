@@ -4,3 +4,4 @@ Introduction
 Adding new line from bugfix_10
 Adding a line from master
 Now trying a three way merge
+Trying three way merge from issue_12
