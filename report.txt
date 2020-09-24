@@ -1,6 +1,4 @@
 This is a report file.
 It contains some analysis that we have done.
 
-Manish
-Ashok
 Adding new line from hot_fix
